@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Glücks-Tips</title>
+    <link>http://gluecks-tip.de/blog/</link>
+    <description>Recent content in Blog on Glücks-Tips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2020 18:04:25 +0200</lastBuildDate>
+    
+	<atom:link href="http://gluecks-tip.de/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://gluecks-tip.de/blog/2020/lorem-ipsum/</link>
+      <pubDate>Sun, 04 Oct 2020 18:07:42 +0200</pubDate>
+      
+      <guid>http://gluecks-tip.de/blog/2020/lorem-ipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur&amp;hellip;
+What is Lorem Ipsum? In mollis cursus ligula, et venanatis neque maximus ut&amp;hellip;
+In mollis cursus ligula Etiam et ligula sit amet urna aliquam suscipit&amp;hellip;
+ Cras dui nulla ornare eget fermentum quis, accumsan vitae purus  Nullam a risus maximus Fusce facilisis non ante quis blandit&amp;hellip;
+Donec vel accumsan justo Maecenas eu libero ac justo tempor pellentesque&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://gluecks-tip.de/blog/2020/my-first-post/</link>
+      <pubDate>Sat, 03 Oct 2020 23:09:07 +0200</pubDate>
+      
+      <guid>http://gluecks-tip.de/blog/2020/my-first-post/</guid>
+      <description>H1 level title This is a paragraph.
+This is another paragraph with emphasis and strong emphasis.
+H2 level title H3 level title This is a hyperlink
+I like lists because they are:
+ fun   easy   fast.  Lists can also be ordered:
+ First element Second element   with an unordered sublist  And you can add tables:
+   Column 1 Column 2 Column 3     I like tables   This is content    </description>
+    </item>
+    
+  </channel>
+</rss>
